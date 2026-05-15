@@ -1,4 +1,4 @@
-# 
+# instant GitKraken for PC | GitKraken for Windows Plugin | conflict-resolution + rebase-support offers the most advanced GitKraken for PC | GitKraken for Windows plugin, with
 
 
 
